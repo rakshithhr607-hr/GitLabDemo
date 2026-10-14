@@ -1,2 +1,4 @@
-# GitLabDemo## cloned and modified in Experiment 4
-student:Thrupthi (4JK25IS041)
+git add README.md
+git commit -m "Resolve README merge conflict"
+git push -u origin main
+
